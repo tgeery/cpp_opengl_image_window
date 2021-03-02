@@ -1,0 +1,6 @@
+[submodule "CImg"]
+	path = CImg
+	url = git@github.com:dtschump/CImg.git
+[submodule "dlib"]
+	path = dlib
+	url = git@github.com:davisking/dlib.git
